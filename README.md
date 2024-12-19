@@ -1,16 +1,18 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1> Hello Fellow Developer! My name is Astrid <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align="center" > Hello Fellow Developer! My name is Astrid <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
-<div size='20px'> Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='30px'> Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me </h2>
+<br>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<h2> About Me <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px> </h2>
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
 - 🎓 I’m currently a programming student at UTN in Argentina/Chaco
   
