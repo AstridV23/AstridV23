@@ -49,7 +49,7 @@
   <!--instagram-->
   <a href="https://www.instagram.com/ast_vinu/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50" /></a>
   <!--gmail-->
-  <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="hashnode" height="50" width="50" /></a>
+  <a href="mailto:astridcarla123@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="hashnode" height="50" width="50" /></a>
   <!--discord-->
   <a href="https://discordapp.com/users/848673624189829120" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" height="50" width="50" /></a>  
 </p>
