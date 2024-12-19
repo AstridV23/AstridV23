@@ -54,7 +54,7 @@
   
 <br>
 
-<h2>GitHub :octocat:</h2>
+<h2>GitHub <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 40px> </h2>
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AstridV23&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AstridV23&theme=tokyonight) |
 | --- | --- |
