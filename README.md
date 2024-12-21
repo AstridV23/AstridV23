@@ -16,7 +16,7 @@
 
 - 🎓 I’m currently a programming student at UTN in Argentina/Chaco
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 I’m currently learning SQL, C#, Java y Spring
   
 - 👯 I’m looking to collaborate on Proyectos
   
