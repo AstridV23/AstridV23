@@ -43,7 +43,7 @@
 <!--icons and links-->
 <p align="center">
   <!--linkedin-->
-  <a href="https://www.linkedin.com/in/astrid-vi%C3%B1uela-3b191a285/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/astrid-vi%C3%B1uela/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
   <!--twitter-->
   <a href="https://twitter.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="50" width="50" /></a> 
   <!--instagram-->
